@@ -88,6 +88,6 @@ Dash is an open source library, released under the permissive MIT license. Plotl
   * Try it yourself!
 
 
-<img src="https://github.com/sreelal1/Review-sentiment-analysis/blob/main/assets/app.png"/>
+<img src="https://github.com/sreelal1/Sentiment-Analysis_NLP/blob/main/assets/app.png"/>
 
 
